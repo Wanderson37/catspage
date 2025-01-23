@@ -1,0 +1,35 @@
+
+
+.body-yoda {
+    background-color: #8e8a6d;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body-cristal {
+    background-color: #24ACF2;
+}
+
+.body-home {
+    background: linear-gradient(to right, #8e8a6d 40%,  #24ACF2 );
+}
+
+div p {
+    color: #313131;
+}
+
+div {
+    background-color: rgba(250,250,250,0.5)
+}
+
+#button {
+    margin-top: 2%;
+}
+
+video[controls] {
+    box-shadow: 0 0 10px gray;
+}

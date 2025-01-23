@@ -1,0 +1,15 @@
+lists the 10 HTML tags and 5 CSS properties you’ve used, as well as a brief (one-sentence) description of how you chose to use JavaScript and Bootstrap.
+1.<h1> for title home
+2.<h3> for names the cats
+3.<img> for image the cats
+4.<a> to link a page for individual cats
+5.<div> for separe in containers
+6.<p> to add description
+7.<ul> create a list
+8.<li> create a itens of the list
+9.<video> add a video
+10.<span> to create a line text
+
+I use JavaScript to create an alert for users about "Careful! Cuteness alert!!!" because the page is much cute.
+
+I use bootstrap for some properties in tags <div> and <h1> for pratically and looks better and responsive
