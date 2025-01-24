@@ -9,11 +9,7 @@
     background-color: #8e8a6d;
 }
 
-/* .image-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
+
 
 .body-cristal {
     background-color: #24ACF2;
@@ -25,9 +21,15 @@
 
 div p {
     color: #313131;
+    
 }
 
-
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
 
 #button {
     margin-top: 2%;
@@ -36,3 +38,13 @@ div p {
 video[controls] {
     box-shadow: 0 0 10px gray;
 }
+.logosvg {
+    width: 50px;
+    height: 50px;
+    filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3));
+  }
+  
+  .logosvg:hover {
+    transform: scale(1.05);
+    filter: drop-shadow(2px 4px 6px rgba(255, 255, 255, 0.1));
+  }
