@@ -1,14 +1,19 @@
-
+.text-title{
+    color: #313131;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 20px;
+}
 
 .body-yoda {
     background-color: #8e8a6d;
 }
 
-.image-container {
+/* .image-container {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .body-cristal {
     background-color: #24ACF2;
@@ -22,9 +27,7 @@ div p {
     color: #313131;
 }
 
-div {
-    background-color: rgba(250,250,250,0.5)
-}
+
 
 #button {
     margin-top: 2%;
